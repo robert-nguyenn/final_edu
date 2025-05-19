@@ -329,3 +329,4 @@ function initGalleryCarousel() {
 
 // Initialize gallery when DOM is loaded
 document.addEventListener('DOMContentLoaded', initGalleryCarousel);
+
