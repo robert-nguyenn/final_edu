@@ -322,7 +322,7 @@ function initGalleryCarousel() {
     const preloadImg = new Image();
     preloadImg.src = src;
   });
-  
+    
   // Start the continuous animation
   setTimeout(startAnimation, 500);
 }
